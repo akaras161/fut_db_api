@@ -1,0 +1,60 @@
+club_id,club_name,club_league
+1,Arsenal,13
+2,Aston Villa,13
+5,Chelsea,13
+7,Everton,13
+8,Leeds United,13
+9,Liverpool,13
+10,Manchester City,13
+11,Manchester Utd,13
+13,Newcastle Utd,13
+14,Nott'm Forest,13
+17,Southampton,13
+18,Spurs,13
+19,West Ham,13
+21,FC Bayern,19
+22,Dortmund,19
+23,M'gladbach,19
+25,SC Freiburg,19
+31,1. FC Köln,19
+32,Leverkusen,19
+36,VfB Stuttgart,19
+38,Werder Bremen,19
+44,Inter,31
+45,Juventus,31
+47,Milan,31
+48,Napoli,31
+54,Torino,31
+55,Udinese,31
+95,Leicester City,13
+110,Wolves,13
+144,Fulham,13
+160,VfL Bochum,19
+166,Hertha Berlin,19
+169,1. FSV Mainz 05,19
+175,VfL Wolfsburg,19
+189,Bologna,31
+206,Hellas Verona,31
+347,Lecce,31
+1746,Empoli,31
+1799,Crystal Palace,13
+1808,Brighton,13
+1824,Frankfurt,19
+1831,Union Berlin,19
+1837,Sampdoria,31
+1925,Brentford,13
+1943,AFC Bournemouth,13
+10029,TSG Hoffenheim,19
+100409,FC Augsburg,19
+110373,Salernitana,31
+110374,Fiorentina,31
+111434,Cremonese,31
+111811,AC Monza,31
+111974,Sassuolo,31
+112172,RB Leipzig,19
+113974,La Spezia,31
+114153,Piemonte Calcio,31
+114912,Roma FC,31
+115841,SS Lazio,31
+115845,Atalanta BC,31
+116365,Napoli,31
